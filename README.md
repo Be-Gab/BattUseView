@@ -11,6 +11,11 @@ Requires BattUse Widget installed to work.
 
 Please read the [Wiki page](https://github.com/Be-Gab/BattUse/wiki) !
 
+![logdays](https://github.com/Be-Gab/BattUse/wiki/doc-img_BUV/BUV_Flight_Logs_Days_tx16s_26-09-27_14-56-14.png "Flight logs days")
+
+![total](https://github.com/Be-Gab/BattUse/wiki/doc-img_BUV/BUV_Stat_Total_tx16s_26-09-27_15-00-23.png "Stat total")
+
+
 ## Installation
 
 Install the widget the same way as any other EdgeTx tools cript:  
