@@ -17,7 +17,7 @@
 -- /(.:BULogView.|.:BULogView.^f_stat|filerw|error^f_stat|warning|^f_stat|-(E|W)-)/i
 
 local app	= {}
-		app.ver			= "1.0.0 RC1"
+		app.ver			= "1.0.0 RC1" 
 		app.shortname	= "BULogView"
 		app.name			= "BattUse Log Viewer"
 		app.appFolder	= "/WIDGETS/BattUse/"

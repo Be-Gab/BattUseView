@@ -21,7 +21,7 @@ local DTF = {}
 	DTF.FORMAT_TIME_SEC		= 40
 	DTF.FORMAT_TIME			= 60
 	DTF.FORMAT_YMD				= 80
-	DTF.FORMAT_YM				= 90
+	DTF.FORMAT_YM				= 90 
 
 local function getDateTimeStr( s , dt_format )
 	local dt = {}

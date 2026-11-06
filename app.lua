@@ -12,8 +12,6 @@
 ## License GNU General Public License v3.0                               ##
 #########################################################################]] 
 local app = ...
-
-
 local A = {}
 
 -- NOTE: syncronise definition in BattUse/loadable.lua 
