@@ -17,14 +17,14 @@
 -- /(.:BULogView.|.:BULogView.^f_stat|filerw|error^f_stat|warning|^f_stat|-(E|W)-)/i
 
 local app	= {}
-		app.ver			= "1.0.0 RC1" 
+		app.version		= "v1.0.0 RC1" 
 		app.shortname	= "BULogView"
 		app.name			= "BattUse Log Viewer"
 		app.appFolder	= "/WIDGETS/BattUse/"
 		app.otsFolder	= "/SCRIPTS/TOOLS/BattUseView/"		-- One-Time-Script Path
 
 
-print( "Loading " .. app.name .. " ver: " .. app.ver )
+print( "Loading " .. app.name .. " ver: " .. app.version )
 
 app.prg	=	loadScript( app.otsFolder .. "app.lua" , "tbd" )( app )
 

@@ -824,7 +824,21 @@ function dispAskModelAndPeriod( modelLogList, cfgModels )
 										end						
 						}
 					}
-				}
+				},
+				{	type	= "label" ,-- version number
+					align = RIGHT,
+					w		=  LCD_W * 0.95 , 
+					-- h		= 50 * lvgl.LCD_SCALE
+					text	= app.version .. "  ",
+					color	=	function ()
+									if string.find( app.version , "RC" ) == 0 then;
+										return COLOR_THEME_PRIMARY2;
+									else;
+										return COLOR_THEME_WARNING;
+									end;
+								end,
+					font	= SMLSIZE , 
+				}				
 			}
 			
 	lvgl.clear()
