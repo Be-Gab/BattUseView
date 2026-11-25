@@ -727,12 +727,12 @@ function dispAskModelAndPeriod( modelLogList, cfgModels )
 					}
 				} ,
 
-				{	type = "box" ,  -- just space
+				{	type = "box" ,		-- just space
 					-- flexFlow = lvgl.FLOW_ROW ,
 					h		= 20 * s
 				}, 
 				
-				{	type = "box" ,  -- period
+				{	type = "box" ,		-- period
 					flexFlow = lvgl.FLOW_ROW , 
 					align		= CENTER ,
 					children	=	{
@@ -810,7 +810,7 @@ function dispAskModelAndPeriod( modelLogList, cfgModels )
 					}
 				}						
 				,
-				{	type = "box" , 		-- button :: Aggregate
+				{	type = "box" , 	-- button :: Aggregate
 					flexFlow = lvgl.FLOW_ROW , 
 					align		= CENTER ,
 					w 			= LCD_W * 0.8 ,
@@ -827,7 +827,7 @@ function dispAskModelAndPeriod( modelLogList, cfgModels )
 					}
 				},
 
-				{	type = "box" ,
+				{	type = "box" ,		-- version
 					children	=	{
 						{	type	= "label" ,	-- version number
 							align = RIGHT ,
@@ -844,8 +844,7 @@ function dispAskModelAndPeriod( modelLogList, cfgModels )
 						}				
 					}
 				}
-				
-				
+								
 			}
 			
 	lvgl.clear()
