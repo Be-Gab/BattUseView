@@ -7,6 +7,17 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Be-Gab/BattUse/blob/main/LICENSE)
 [![Support me on Ko-fi](https://img.shields.io/badge/Support_me_on-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/be_gab)
 
+
+
+
+
+[![Issues](https://img.shields.io/github/issues/Be-Gab/BattUseView?label=Issues)](https://github.com/Be-Gab/BattUseView/issues)
+[![RC1 release](https://img.shields.io/badge/Download-RC1-blue?logo=github)](https://github.com/Be-Gab/BattUseView/releases/tag/v1.0.0_RC1)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Be-Gab/BattUseView/blob/main/LICENSE)
+[☕ Támogass Ko-fin](https://ko-fi.com/begab)
+
+
+
 In its current state, in the absence of a sufficient number of tests, live use of the widget is not recommended.
 
 **Minimum required EdgeTx version:** 2.11.5 (recommended: 2.12.5, Latest )  
