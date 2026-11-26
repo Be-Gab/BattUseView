@@ -1,22 +1,10 @@
 # BattUse Log Viewer
 
-
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/ujdpRSaL1j4)
-[![Releases](https://img.shields.io/github/v/release/Be-Gab/BattUse?include_prereleases&label=Releases)](https://github.com/Be-Gab/BattUse/releases/tag/v1.0.0_RC1)
-[![GitHub Issues](https://img.shields.io/github/issues/Be-Gab/BattUse?label=Issues)](https://github.com/Be-Gab/BattUse/issues)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Be-Gab/BattUse/blob/main/LICENSE)
-[![Support me on Ko-fi](https://img.shields.io/badge/Support_me_on-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/be_gab)
-
-
-
-
-
 [![Issues](https://img.shields.io/github/issues/Be-Gab/BattUseView?label=Issues)](https://github.com/Be-Gab/BattUseView/issues)
-[![RC1 release](https://img.shields.io/badge/Download-RC1-blue?logo=github)](https://github.com/Be-Gab/BattUseView/releases/tag/v1.0.0_RC1)
+[![Release v1.0.0_RC1](https://img.shields.io/badge/Release-v1.0.0_RC1-blue?logo=github)](https://github.com/Be-Gab/BattUseView/releases/tag/v1.0.0_RC1)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Be-Gab/BattUseView/blob/main/LICENSE)
-[☕ Támogass Ko-fin](https://ko-fi.com/begab)
-
-
+[![Support me on Ko-fi](https://img.shields.io/badge/Support_me_on-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/be_gab)
 
 In its current state, in the absence of a sufficient number of tests, live use of the widget is not recommended.
 
